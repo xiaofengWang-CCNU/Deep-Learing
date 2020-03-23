@@ -1,2 +1,2 @@
-# Deep-Learing
-A record of convolutional neural networks learning
+# Deep-Learning
+A record for deep learning
